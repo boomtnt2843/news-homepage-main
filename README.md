@@ -31,9 +31,9 @@ Desktop
 
 Mobile
 
-(./ScreenshotMobile1.png)
-(./ScreenshotMobileMenu.png)
-(./ScreenshotMobile2.png)
+![](./ScreenshotMobile1.png)
+![](./ScreenshotMobileMenu.png)
+![](./ScreenshotMobile2.png)
 
 
 ### Links
